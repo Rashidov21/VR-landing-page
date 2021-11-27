@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Mukta:wght@700&display=swap');
+body {
+    font-family: 'Bebas Neue', cursive;
+    color: aqua;
+}
+
+.title {
+    color: #EBD0FB;
+}
+
+#ban {
+    background-position: center;
+    background-size: cover;
+}
