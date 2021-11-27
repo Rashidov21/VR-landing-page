@@ -2,6 +2,7 @@
 body {
     font-family: 'Bebas Neue', cursive;
     color: aqua;
+    transition: all 0.5s;
 }
 
 .title {
@@ -11,4 +12,14 @@ body {
 #ban {
     background-position: center;
     background-size: cover;
+}
+
+.notification {
+    display: none;
+    position: absolute;
+    z-index: 999;
+    width: 50%;
+    top: 5%;
+    left: 20%;
+    padding: 50px;
 }
